@@ -1,0 +1,27 @@
+{
+  "name": "Bursaspor Taraftar Merkezi",
+  "short_name": "Bursaspor",
+  "description": "Bursaspor taraftarları için maç, taktik, istatistik ve haberler",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#006633",
+  "theme_color": "#006633",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["sports", "entertainment"],
+  "lang": "tr",
+  "dir": "ltr"
+}

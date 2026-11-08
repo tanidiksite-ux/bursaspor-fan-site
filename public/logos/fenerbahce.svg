@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="fbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001F3F" />
+      <stop offset="100%" style="stop-color:#001020" />
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="95" fill="url(#fbGrad)" />
+  <ellipse cx="100" cy="100" rx="70" ry="50" fill="none" stroke="#FFFF00" stroke-width="3" />
+  <text x="100" y="110" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#FFFF00" text-anchor="middle">FB</text>
+  <text x="100" y="150" font-family="Arial, sans-serif" font-size="10" fill="#FFFF00" text-anchor="middle">1907</text>
+</svg>

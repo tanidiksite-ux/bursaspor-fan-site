@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="95" fill="#003366" />
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  <text x="100" y="115" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#FFFF00" text-anchor="middle">ADS</text>
+</svg>
